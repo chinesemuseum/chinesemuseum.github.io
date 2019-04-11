@@ -1,0 +1,5 @@
+net user
+
+net start
+
+systeminfo
